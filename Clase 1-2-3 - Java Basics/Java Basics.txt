@@ -1,0 +1,7 @@
+
+Leer
+Escribir
+Sumar
+Alojar
+Minusculas Mayusculas
+Operaciones Matemáticas
