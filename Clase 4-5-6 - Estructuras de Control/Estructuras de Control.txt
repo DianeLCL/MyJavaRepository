@@ -1,0 +1,17 @@
+If / Else
+
+Swich
+
+While
+
+Do / While
+
+For
+
+---
+
+Lenght
+
+Equals
+
+...
