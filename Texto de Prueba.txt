@@ -1,12 +1,5 @@
+Veremos que pasa con los cambios de línea
 
-La prueba determinó que si cambio el nombre del archivo local, de da por sentado que se eliminó el archivo en nube y se crea uno nuevo. 
+SextaModificacion
 
-No guarda comentarios.
-No guarda registro.
-Es un nuevo archivo. 
-
-
-QuintaModificacion
-[De este archivo]
-
-1.0.4
+1.0.5 - Del original
