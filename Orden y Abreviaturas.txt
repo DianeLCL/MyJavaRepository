@@ -1,0 +1,16 @@
+
+		-- Orden y Abreviaturas --
+
+C_ Clase N°
+	E_ Ejercicio N°
+		G_ Guía N°
+			Extra_ Ejercicio Extra del tema N°
+
+			...
+
+C1_E3_: 	Clase 1 - Ejercicio 3
+
+C4_G2_E7_: 	Clase 4 - Guia 2 - Ejercicio 7
+
+C6_Extra1_: 	Clase 6 - Ejercicio Extra 1
+
